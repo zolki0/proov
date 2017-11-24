@@ -18,10 +18,10 @@ key: f533c20cd3
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
 `@instructions`
-- Adventure
-- Action
-- Animation
-- Comedy
+* vast1
+* vast2
+* vast3
+* vast4
 
 `@hint`
 Have a look at the plot. Which color does the point with the lowest rating have?
